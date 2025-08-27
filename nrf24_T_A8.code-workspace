@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "RC_nRF24_T_A8",
+			"path": "."
+		},
+		
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
